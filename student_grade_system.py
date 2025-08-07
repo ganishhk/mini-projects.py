@@ -1,4 +1,4 @@
-#student grade system
+#students grade system
 student={}
 verify=[]
 try:
